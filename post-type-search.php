@@ -1,12 +1,12 @@
 <?php
 /*
-	Plugin Name: Post Type Search
+	Plugin Name: Custom Post Type Search Widget
 	Plugin URI: https://github.com/baikaresandeep
-	Description: This plugin search from the custom post types which you select.
-	Version: 1.0.0
+	Description: This custom post type search widget will search from the custom post types which you select in the widget setting.
+	Version: 1.0.1
 	Author: Baikare Sandeep
-  Author URI: https://github.com/post-type-search
-  Text Domain:       post-type-search
+  	Author URI: https://github.com/post-type-search
+  	Text Domain:       post-type-search
 	License:           GPL-2.0+
 */
 
